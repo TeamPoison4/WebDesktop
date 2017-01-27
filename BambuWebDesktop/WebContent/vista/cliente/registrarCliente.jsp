@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Registrar Cliente</title>
 </head>
 <body>
 <div class="col-md-12" >
@@ -35,7 +35,7 @@
                         </div>
                         <div class="ibox-content">
                             <form class="form-horizontal">
-                            <div class="form-group"><label class="col-lg-2 control-label">Cedula</label>
+                            <div class="form-group"><label class="col-lg-2 control-label">CedulaAAA</label>
                             <div class="col-lg-10"><input type="text" placeholder="cedula" class="form-control"> 
                                     </div>
                                 </div>
