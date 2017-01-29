@@ -35,7 +35,7 @@
                         </div>
                         <div class="ibox-content">
                             <form class="form-horizontal">
-                            <div class="form-group"><label class="col-lg-2 control-label">CedulaAAA(Prueba Rama Consola)</label>
+                            <div class="form-group"><label class="col-lg-2 control-label">Cedula(prueba)</label>
                             <div class="col-lg-10"><input type="text" placeholder="cedula" class="form-control"> 
                                     </div>
                                 </div>
